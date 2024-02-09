@@ -60,7 +60,7 @@ Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Che
 
 Health, Fitness, and Wellness	4	*HLTH1010 Introduction to Nutrition
 
-Introduction to IT	4	*CS1001 Introduction to Information Technology
+Introduction to IT	4	*CS1001 Introduction to Information Technology ------ Satisfated Already ------
 
 Data Management - Foundations	3	*CS1011 Introduction to Relational Databases
 
@@ -68,13 +68,15 @@ Network and Security - Foundations	3	*CS1015 Introduction to Networking
 
 Scripting and Programming - Foundations	3	*CS1101 Introduction to Java Programming
 
-Web Development Foundations	3	*CS1005 Introduction to Web Development
+Web Development Foundations	3	*CS1005 Introduction to Web Development ------ Satisfated Already ------
 
 Introduction to Programming in Python	3	*CS1100 Introduction to Python Programming
 
 Business of IT - Project Management	4	*PM1001 Project Management
 
 IT Leadership Foundations	3	*BUSI1013 Principles of Management
+
+
 
 ----------- Study.com, 15 credits -------
 
