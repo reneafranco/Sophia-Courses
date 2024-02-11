@@ -62,7 +62,7 @@ Health, Fitness, and Wellness	4	*HLTH1010 Introduction to Nutrition
 
 Introduction to IT	4	*CS1001 Introduction to Information Technology ------ Satisfated Already ------
 
-Data Management - Foundations	3	*CS1011 Introduction to Relational Databases
+Data Management - Foundations	3	*CS1011 Introduction to Relational Databases ------ Satisfated Already ------
 
 Network and Security - Foundations	3	*CS1015 Introduction to Networking
 
