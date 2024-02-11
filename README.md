@@ -58,7 +58,7 @@ Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics
 
 Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
 
-Health, Fitness, and Wellness	4	*HLTH1010 Introduction to Nutrition
+Health, Fitness, and Wellness	4	*HLTH1010 Introduction to Nutrition ------ Satisfated Already ------
 
 Introduction to IT	4	*CS1001 Introduction to Information Technology ------ Satisfated Already ------
 
