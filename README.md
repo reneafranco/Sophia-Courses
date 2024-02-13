@@ -54,7 +54,7 @@ Introduction to Physical and Human Geography	3	*ECON1001 Macroeconomics, ECON100
 
 Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
 
-Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics
+Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics ------ Satisfated Already ------
 
 Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
 
