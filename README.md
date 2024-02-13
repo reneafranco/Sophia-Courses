@@ -3,45 +3,84 @@ Sophia-Courses
 
 WGU CORE COURSES OFFCIAL WEBSITE 02/06/24
 
-Introduction to IT	4	*CS1001 (SOPH-0023)
+Introduction to IT	4	*CS1001 (SOPH-0023) ------ Satisfated Already ------
 Introduction to IT	4	*CS1001 (SOPH-0023)
 Introduction to IT	4	*CS1001 (SOPH-0023)
 Introduction to IT	4	*CS1001 (SOPH-0023
 
-Data Management - Foundations	3	*CS1011 (SOPH-0047)
+Data Management - Foundations	3	*CS1011 (SOPH-0047) ------ Satisfated Already ------
 Data Management - Foundations	3	*CS1011 (SOPH-0047)
 Data Management - Foundations	3	*CS1011 (SOPH-0047)
 Data Management - Foundations	3	*CS1011 (SOPH-0047
 
-Network and Security - Foundations	3	*CS1015 (SOPH-0068)
-Network and Security - Foundations	3	*CS1015 (SOPH-0068)
-Network and Security - Foundations	3	*CS1015 (SOPH-0068)
-Network and Security - Foundations	3	*CS1015 (SOPH-0068)
 
-Scripting and Programming - Foundations	3	*CS1101 (SOPH-0062)
+Scripting and Programming - Foundations	3	*CS1101 (SOPH-0062) ------ Satisfated Already ------
 Scripting and Programming - Foundations	3	*CS1101 (SOPH-0062)
 Scripting and Programming - Foundations	3	*CS1101 (SOPH-0062)
 Scripting and Programming - Foundations	3	*CS1101 (SOPH-0062)
 
-Web Development Foundations	3	*CS1005 (SOPH-0043)
+Web Development Foundations	3	*CS1005 (SOPH-0043) ------ Satisfated Already ------
 Web Development Foundations	3	*CS1005 (SOPH-0043)
 Web Development Foundations	3	*CS1005 (SOPH-0043)
 Web Development Foundations	3	*CS1005 (SOPH-0043)
 
-Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
-Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
-Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
-Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
 
+Business of IT - Project Management	4	*PM1001 (SOPH-0013) ------ Satisfated Already ------
 Business of IT - Project Management	4	*PM1001 (SOPH-0013)
 Business of IT - Project Management	4	*PM1001 (SOPH-0013)
 Business of IT - Project Management	4	*PM1001 (SOPH-0013)
-Business of IT - Project Management	4	*PM1001 (SOPH-0013)
+
+Health, Fitness, and Wellness	4	*HLTH1010 Introduction to Nutrition ------ Satisfated Already ------
+Health, Fitness, and Wellness	4	*HLTH1010 Introduction to Nutrition 
+Health, Fitness, and Wellness	4	*HLTH1010 Introduction to Nutrition 
+Health, Fitness, and Wellness	4	*HLTH1010 Introduction to Nutrition 
+
+Introduction to Physical and Human Geography ECON1002 Microeconomics ------ Satisfated Already ------
+Introduction to Physical and Human Geography ECON1002 Microeconomic
+Introduction to Physical and Human Geography ECON1002 Microeconomic
+Introduction to Physical and Human Geography ECON1002 Microeconomic
+
+Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics ------ Satisfated Already ------
+Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics 
+Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics 
+Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics 
 
 IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
 IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
 IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
 IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
+
+Introduction to Programming in Python	3	*CS1100 (SOPH-0058) 
+Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
+Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
+Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
+
+Network and Security - Foundations	3	*CS1015 (SOPH-0068)
+Network and Security - Foundations	3	*CS1015 (SOPH-0068)
+Network and Security - Foundations	3	*CS1015 (SOPH-0068)
+Network and Security - Foundations	3	*CS1015 (SOPH-0068)
+
+
+
+Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
+Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
+Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
+Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
+
+American Politics and the US Constitution	3	*HIST1020 U.S. Government
+American Politics and the US Constitution	3	*HIST1020 U.S. Government
+American Politics and the US Constitution	3	*HIST1020 U.S. Government
+American Politics and the US Constitution	3	*HIST1020 U.S. Government
+
+Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
+Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
+Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
+Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
+
+Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
+Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
+Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
+Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
 
 
 -------------  Online Information ---------
@@ -50,7 +89,7 @@ Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG10
 
 American Politics and the US Constitution	3	*HIST1020 U.S. Government
 
-Introduction to Physical and Human Geography	3	*ECON1001 Macroeconomics, ECON1002 Microeconomics, HIST1001 U.S. History I, HIST1002 U.S. History II, HIST1010 Topics in U.S. History: Learn from the Past, Prepare for the Future, PSYC1010 Introduction to Psychology: Smarter Decisions Through Psychology, or SOCI1010 Introduction to Sociology: Embracing Diversity and Collaboration
+Introduction to Physical and Human Geography	3	*ECON1001 Macroeconomics, ECON1002 Microeconomics, HIST1001 U.S. History I, HIST1002 U.S. History II, HIST1010 Topics in U.S. History: Learn from the Past, Prepare for the Future, PSYC1010 Introduction to Psychology: Smarter Decisions Through Psychology, or SOCI1010 Introduction to Sociology: Embracing Diversity and Collaboration ------ Satisfated Already ------
 
 Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
 
