@@ -66,7 +66,7 @@ Data Management - Foundations	3	*CS1011 Introduction to Relational Databases ---
 
 Network and Security - Foundations	3	*CS1015 Introduction to Networking
 
-Scripting and Programming - Foundations	3	*CS1101 Introduction to Java Programming
+Scripting and Programming - Foundations	3	*CS1101 Introduction to Java Programming ------ Satisfated Already ------
 
 Web Development Foundations	3	*CS1005 Introduction to Web Development ------ Satisfated Already ------
 
