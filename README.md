@@ -45,32 +45,30 @@ Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics
 Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics 
 Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics 
 
-IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
-IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
-IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
-IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
+Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus ------ Satisfated Already ------
+Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
+Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
+Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
 
 Introduction to Programming in Python	3	*CS1100 (SOPH-0058) 
 Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
 Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
 Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
 
-Network and Security - Foundations	3	*CS1015 (SOPH-0068)
-Network and Security - Foundations	3	*CS1015 (SOPH-0068)
-Network and Security - Foundations	3	*CS1015 (SOPH-0068)
-Network and Security - Foundations	3	*CS1015 (SOPH-0068)
-
-
-
-Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus ------ Satisfated Already ------
-Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
-Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
-Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
+IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
+IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
+IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
+IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
 
 American Politics and the US Constitution	3	*HIST1020 U.S. Government
 American Politics and the US Constitution	3	*HIST1020 U.S. Government
 American Politics and the US Constitution	3	*HIST1020 U.S. Government
 American Politics and the US Constitution	3	*HIST1020 U.S. Government
+
+Network and Security - Foundations	3	*CS1015 (SOPH-0068)
+Network and Security - Foundations	3	*CS1015 (SOPH-0068)
+Network and Security - Foundations	3	*CS1015 (SOPH-0068)
+Network and Security - Foundations	3	*CS1015 (SOPH-0068)
 
 Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
 Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
