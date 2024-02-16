@@ -50,7 +50,7 @@ Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Pre
 Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
 Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
 
-Introduction to Programming in Python	3	*CS1100 (SOPH-0058) 
+Introduction to Programming in Python	3	*CS1100 (SOPH-0058) ------ Satisfated Already ------
 Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
 Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
 Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
