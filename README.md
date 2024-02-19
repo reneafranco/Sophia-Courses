@@ -55,7 +55,7 @@ Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
 Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
 Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
 
-IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
+IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)------ Satisfated Already ------
 IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
 IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
 IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
