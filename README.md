@@ -111,7 +111,7 @@ Introduction to Programming in Python	3	*CS1100 Introduction to Python Programmi
 
 Business of IT - Project Management	4	*PM1001 Project Management ------ Satisfated Already -----
 
-IT Leadership Foundations	3	*BUSI1013 Principles of Management
+IT Leadership Foundations	3	*BUSI1013 Principles of Management ------ Satisfated Already ------
 
 
 
