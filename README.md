@@ -4,115 +4,53 @@ Sophia-Courses
 WGU CORE COURSES OFFCIAL WEBSITE 02/06/24
 
 Introduction to IT	4	*CS1001 (SOPH-0023) ------ Satisfated Already ------
-Introduction to IT	4	*CS1001 (SOPH-0023)
-Introduction to IT	4	*CS1001 (SOPH-0023)
-Introduction to IT	4	*CS1001 (SOPH-0023
 
 Data Management - Foundations	3	*CS1011 (SOPH-0047) ------ Satisfated Already ------
-Data Management - Foundations	3	*CS1011 (SOPH-0047)
-Data Management - Foundations	3	*CS1011 (SOPH-0047)
-Data Management - Foundations	3	*CS1011 (SOPH-0047
-
 
 Scripting and Programming - Foundations	3	*CS1101 (SOPH-0062) ------ Satisfated Already ------
-Scripting and Programming - Foundations	3	*CS1101 (SOPH-0062)
-Scripting and Programming - Foundations	3	*CS1101 (SOPH-0062)
-Scripting and Programming - Foundations	3	*CS1101 (SOPH-0062)
 
 Web Development Foundations	3	*CS1005 (SOPH-0043) ------ Satisfated Already ------
-Web Development Foundations	3	*CS1005 (SOPH-0043)
-Web Development Foundations	3	*CS1005 (SOPH-0043)
-Web Development Foundations	3	*CS1005 (SOPH-0043)
-
 
 Business of IT - Project Management	4	*PM1001 (SOPH-0013) ------ Satisfated Already ------
-Business of IT - Project Management	4	*PM1001 (SOPH-0013)
-Business of IT - Project Management	4	*PM1001 (SOPH-0013)
-Business of IT - Project Management	4	*PM1001 (SOPH-0013)
+
 
 Health, Fitness, and Wellness	4	*HLTH1010 Introduction to Nutrition ------ Satisfated Already ------
-Health, Fitness, and Wellness	4	*HLTH1010 Introduction to Nutrition 
-Health, Fitness, and Wellness	4	*HLTH1010 Introduction to Nutrition 
-Health, Fitness, and Wellness	4	*HLTH1010 Introduction to Nutrition 
+
 
 Introduction to Physical and Human Geography ECON1002 Microeconomics ------ Satisfated Already ------
-Introduction to Physical and Human Geography ECON1002 Microeconomic
-Introduction to Physical and Human Geography ECON1002 Microeconomic
-Introduction to Physical and Human Geography ECON1002 Microeconomic
 
 Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics ------ Satisfated Already ------
-Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics 
-Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics 
-Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics 
+
 
 Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus ------ Satisfated Already ------
-Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
-Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
-Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
+
 
 Introduction to Programming in Python	3	*CS1100 (SOPH-0058) ------ Satisfated Already ------
-Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
-Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
-Introduction to Programming in Python	3	*CS1100 (SOPH-0058)
+
 
 IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)------ Satisfated Already ------
-IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
-IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
-IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)
 
-American Politics and the US Constitution	3	*HIST1020 U.S. Government
-American Politics and the US Constitution	3	*HIST1020 U.S. Government
-American Politics and the US Constitution	3	*HIST1020 U.S. Government
-American Politics and the US Constitution	3	*HIST1020 U.S. Government
 
-Network and Security - Foundations	3	*CS1015 (SOPH-0068)
+Network and Security - Foundations	3	*CS1015 (SOPH-0068) ------ Peding  ------
 Network and Security - Foundations	3	*CS1015 (SOPH-0068)
 Network and Security - Foundations	3	*CS1015 (SOPH-0068)
 Network and Security - Foundations	3	*CS1015 (SOPH-0068)
 
-Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
-Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
-Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
-Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
-
-Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
-Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
-Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
-Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
-
-
--------------  Online Information ---------
-
-Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
-
+American Politics and the US Constitution	3	*HIST1020 U.S. Government ------ Peding  ------
+American Politics and the US Constitution	3	*HIST1020 U.S. Government
+American Politics and the US Constitution	3	*HIST1020 U.S. Government
 American Politics and the US Constitution	3	*HIST1020 U.S. Government
 
-Introduction to Physical and Human Geography	3	*ECON1001 Macroeconomics, ECON1002 Microeconomics, HIST1001 U.S. History I, HIST1002 U.S. History II, HIST1010 Topics in U.S. History: Learn from the Past, Prepare for the Future, PSYC1010 Introduction to Psychology: Smarter Decisions Through Psychology, or SOCI1010 Introduction to Sociology: Embracing Diversity and Collaboration ------ Satisfated Already ------
-
-Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or MATH 1035 Precalculus
-
-Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics ------ Satisfated Already ------
 
 Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
+Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
+Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
+Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
 
-Health, Fitness, and Wellness	4	*HLTH1010 Introduction to Nutrition ------ Satisfated Already ------
-
-Introduction to IT	4	*CS1001 Introduction to Information Technology ------ Satisfated Already ------
-
-Data Management - Foundations	3	*CS1011 Introduction to Relational Databases ------ Satisfated Already ------
-
-Network and Security - Foundations	3	*CS1015 Introduction to Networking
-
-Scripting and Programming - Foundations	3	*CS1101 Introduction to Java Programming ------ Satisfated Already ------
-
-Web Development Foundations	3	*CS1005 Introduction to Web Development ------ Satisfated Already ------
-
-Introduction to Programming in Python	3	*CS1100 Introduction to Python Programming
-
-Business of IT - Project Management	4	*PM1001 Project Management ------ Satisfated Already -----
-
-IT Leadership Foundations	3	*BUSI1013 Principles of Management ------ Satisfated Already ------
-
+Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
+Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
+Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
+Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
 
 
 ----------- Study.com, 15 credits -------
@@ -126,6 +64,49 @@ Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: D
 
 Software Engineering	4	*Computer Science 307 Computer Science 307: Software Engineering
 
+
+
+
+Introduction to IT 4 1
+American Politics and the US Constitution 3 1
+Introduction to Physical and Human Geography 3 1
+Natural Science Lab 2 1
+Web Development Foundations 3 2
+Technical Communication 3 2
+Health, Fitness, and Wellness 4 2
+Network and Security - Foundations 3 2
+Data Management - Foundations 3 3
+Composition: Successful Self-Expression 3 3
+Hardware and Operating Systems Essentials 3 3
+Data Management - Applications 4 3
+Introduction to Systems Thinking 3 4
+Version Control 1 4
+Cloud Foundations 3 4
+Scripting and Programming - Foundations 3 4
+Applied Probability and Statistics 3 4
+Business of IT - Project Management 4 5
+Applied Algebra 3 5
+Introduction to Programming in Python 3 5
+Ethics in Technology 3 5
+Business of IT – Applications 4 6
+Data Structures and Algorithms I 4 6
+IT Leadership Foundations 3 6
+Front-End Web Development 3 6
+JavaScript Programming 3 7
+Software Engineering 4 7
+Java Fundamentals 3 7
+Java Frameworks 3 7
+User Interface Design 3 8
+User Experience Design 3 8
+Back-End Programming 3 8
+Advanced Java 3 8
+Software Design and Quality Assurance 3 8
+Advanced Data Management 3 9
+BSSWE 202303 © 2019 Western Governors University 2/9/23 6
+Course Description CUs Term
+Software Security and Testing 3 9
+Mobile Application Development (Android) 3 9
+Software Engineering Capstone 4 9
 
 
 
