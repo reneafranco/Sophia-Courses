@@ -34,7 +34,7 @@ Introduction to Programming in Python	3	*CS1100 (SOPH-0058) ------ Satisfated Al
 IT Leadership Foundations	3	*BUSI1013 (SOPH-0054)------ Satisfated Already ------
 
 
-Network and Security - Foundations	3	*CS1015 (SOPH-0068) ------ Peding  ------
+Network and Security - Foundations	3	*CS1015 (SOPH-0068) ------ Satisfated Already  ------
 Network and Security - Foundations	3	*CS1015 (SOPH-0068)
 Network and Security - Foundations	3	*CS1015 (SOPH-0068)
 Network and Security - Foundations	3	*CS1015 (SOPH-0068)
@@ -85,7 +85,7 @@ Web Development Foundations ------ Satisfated Already ------
 
 Health, Fitness, and Wellness ------ Satisfated Already ------
 
-Network and Security - Foundations ------ Pending ------
+Network and Security - Foundations ------ Satisfated Already ------
 
 Data Management - Foundations ------ Satisfated Already ------
 
