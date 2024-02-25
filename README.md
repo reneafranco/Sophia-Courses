@@ -39,7 +39,7 @@ Network and Security - Foundations	3	*CS1015 (SOPH-0068)
 Network and Security - Foundations	3	*CS1015 (SOPH-0068)
 Network and Security - Foundations	3	*CS1015 (SOPH-0068)
 
-American Politics and the US Constitution	3	*HIST1020 U.S. Government ------ Peding  ------
+American Politics and the US Constitution	3	*HIST1020 U.S. Government ------ Satisfated Already   ------
 American Politics and the US Constitution	3	*HIST1020 U.S. Government
 American Politics and the US Constitution	3	*HIST1020 U.S. Government
 American Politics and the US Constitution	3	*HIST1020 U.S. Government
@@ -77,7 +77,7 @@ Java Fundamentals Computer Science 115
 
 Introduction to IT ------ Satisfated Already ------
 
-American Politics and the US Constitution ------ Pending ------
+American Politics and the US Constitution ------ Satisfated Already  ------
 
 Introduction to Physical and Human Geography ------ Satisfated Already ------
 
