@@ -67,8 +67,6 @@ Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: D
 
 Software Engineering	4	*Computer Science 307 Computer Science 307: Software Engineering
 
-Java Fundamentals Computer Science 115
-
 
 
 
