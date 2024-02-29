@@ -99,9 +99,9 @@ Introduction to Programming in Python ------ Satisfated Already ------
 
 IT Leadership Foundations ------ Satisfated Already ------
 
-Composition: Successful Self-Expression 3 3
+Composition: Successful Self-Expression 3 3 - ------ Satisfated Already ------
 
-Natural Science Lab 2 1
+Natural Science Lab 2 1 ------ Satisfated Already ------
 
 Ethics in Technology 3 5
 
