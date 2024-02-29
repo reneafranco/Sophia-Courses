@@ -59,9 +59,9 @@ Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG10
 ----------- Study.com, 15 credits -------
 
 
-Data Management - Applications	4	*Computer Science 204 Computer Science 204: Database Programming
+Data Management - Applications	4	*Computer Science 204 Computer Science 204: Database Programming --- Posible segundo ---
 
-Advanced Data Management	3	*Computer Science 303 Computer Science 303: Database Management
+Advanced Data Management	3	*Computer Science 303 Computer Science 303: Database Management -- Posible segundo  ---
 
 Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: Data Structures & Algorithms ----Posible primer clase ---
 
