@@ -45,12 +45,12 @@ American Politics and the US Constitution	3	*HIST1020 U.S. Government
 American Politics and the US Constitution	3	*HIST1020 U.S. Government
 
 
-Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
+Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab ------ Satisfated Already   ------
 Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
 Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
 Natural Science Lab	2	*SCIE1021 Human Biology Lab, CHEM 1002 Introduction to Chemistry Lab, SCIE1051 Anatomy & Physiology I Lab, or SCIE1046 Microbiology Lab
 
-Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
+Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I ------ Pending  ------
 Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
 Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
 Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
