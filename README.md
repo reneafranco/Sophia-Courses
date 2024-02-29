@@ -63,7 +63,7 @@ Data Management - Applications	4	*Computer Science 204 Computer Science 204: Dat
 
 Advanced Data Management	3	*Computer Science 303 Computer Science 303: Database Management
 
-Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: Data Structures & Algorithms
+Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: Data Structures & Algorithms ----Posible primer clase ---
 
 Software Engineering	4	*Computer Science 307 Computer Science 307: Software Engineering
 
