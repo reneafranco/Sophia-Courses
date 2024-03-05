@@ -114,7 +114,7 @@ Technical Communication 3 2
 
 
 
-Hardware and Operating Systems Essentials 3 3
+Hardware and Operating Systems Essentials 3 3 ---Pre study class ---
 
 Data Management - Applications 4 3
 
