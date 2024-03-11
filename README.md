@@ -10,7 +10,7 @@ Introduction to IT	4	*CS1001 (SOPH-0023) ------ Satisfated Already ------
 
 Data Management - Foundations	3	*CS1011 (SOPH-0047) ------ Satisfated Already ------
 
-Scripting and Programming - Foundations	3	*CS1101 (SOPH-0062) ------ Satisfated Already ------
+Java Fundamentals 3 7 ------ Satisfated Already  ------
 
 Web Development Foundations	3	*CS1005 (SOPH-0043) ------ Satisfated Already ------
 
@@ -65,7 +65,9 @@ Advanced Data Management	3	*Computer Science 303 Computer Science 303: Database 
 
 Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: Data Structures & Algorithms ----Posible primer clase ---
 
-Software Engineering	4	*Computer Science 307 Computer Science 307: Software Engineering
+Software Engineering	4	*Computer Science 307 Computer Science 307: Software Engineering 
+
+Scripting and Programming - Foundations	3	*CS1101 (SOPH-0062) ------ Posible primero ------
 
 
 
@@ -87,8 +89,6 @@ Network and Security - Foundations ------ Satisfated Already ------
 
 Data Management - Foundations ------ Satisfated Already ------
 
-Scripting and Programming - Foundations ------ Satisfated Already ------
-
 Applied Probability and Statistics ------ Satisfated Already ------
 
 Business of IT - Project Management ------ Satisfated Already ------
@@ -101,7 +101,11 @@ IT Leadership Foundations ------ Satisfated Already ------
 
 Composition: Successful Self-Expression 3 3 - ------ Satisfated Already ------
 
-Natural Science Lab 2 1 ------ Satisfated Already ------
+Natural Science Lab 2 1 ------ Satisfated Already ------ 
+
+Java Fundamentals 3 7 ------ Satisfated Already  ------ 
+
+Scripting and Programming - Foundations 
 
 Data Management - Applications 4 3
 
@@ -128,8 +132,6 @@ Cloud Foundations 3 4
 Front-End Web Development 3 6
 
 JavaScript Programming 3 7
-
-Java Fundamentals 3 7
 
 Java Frameworks 3 7
 
