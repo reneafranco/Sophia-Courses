@@ -103,20 +103,21 @@ Composition: Successful Self-Expression 3 3 - ------ Satisfated Already ------
 
 Natural Science Lab 2 1 ------ Satisfated Already ------
 
+Data Management - Applications 4 3
+
+Software Engineering 4 7
+
+Advanced Data Management 3 9
+
+Data Structures and Algorithms I 4 6
+
 Ethics in Technology 3 5
 
 Business of IT – Applications 4 6
 
-Data Structures and Algorithms I 4 6
-
-
 Technical Communication 3 2
 
-
-
 Hardware and Operating Systems Essentials 3 3 ---Pre study class ---
-
-Data Management - Applications 4 3
 
 Introduction to Systems Thinking 3 4
 
@@ -127,8 +128,6 @@ Cloud Foundations 3 4
 Front-End Web Development 3 6
 
 JavaScript Programming 3 7
-
-Software Engineering 4 7
 
 Java Fundamentals 3 7
 
@@ -143,8 +142,6 @@ Back-End Programming 3 8
 Advanced Java 3 8
 
 Software Design and Quality Assurance 3 8
-
-Advanced Data Management 3 9
 
 Software Security and Testing 3 9
 
