@@ -56,7 +56,7 @@ Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG10
 Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
 
 
------------ Study.com, 15 credits -------
+----------- Study.com, 18 credits -------
 
 
 Data Management - Applications	4	*Computer Science 204 Computer Science 204: Database Programming --- Posible primero ---
@@ -109,9 +109,9 @@ Scripting and Programming - Foundations
 
 Data Management - Applications 4 3
 
-Software Engineering 4 7
-
 Advanced Data Management 3 9
+
+Software Engineering 4 7
 
 Data Structures and Algorithms I 4 6
 
