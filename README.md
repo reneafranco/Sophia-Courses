@@ -63,11 +63,11 @@ Data Management - Applications	4	*Computer Science 204 Computer Science 204: Dat
 
 Advanced Data Management	3	*Computer Science 303 Computer Science 303: Database Management -- Posible 4  ---
 
-Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: Data Structures & Algorithms ----Posible Segunda clase ---
+Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: Data Structures & Algorithms ---- Pendiente ---
 
 Software Engineering	4	*Computer Science 307 Computer Science 307: Software Engineering 
 
-Scripting and Programming - Foundations	*Computer Science 109 (SDCM-0214), Computer Science 112 (SDCM-0198), or Computer Science 115 (SDCM-0199)) ------ Pendiente ------
+Scripting and Programming - Foundations	*Computer Science 109 (SDCM-0214), Computer Science 112 (SDCM-0198), or Computer Science 115 (SDCM-0199)) ------ Final Test Pending ------
 
 
 
