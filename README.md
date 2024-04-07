@@ -107,13 +107,13 @@ Java Fundamentals 3 7 ------ Satisfated Already  ------
 
 Scripting and Programming - Foundations 
 
-Data Management - Applications 4 3
+Data Management - Applications 4 3 ------ Satisfated Already ------
 
 Advanced Data Management 3 9
 
 Software Engineering 4 7
 
-Data Structures and Algorithms I 4 6
+Data Structures and Algorithms I 4 6 ------ Satisfated Already ------
 
 Ethics in Technology 3 5
 
