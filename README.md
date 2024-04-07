@@ -71,6 +71,12 @@ Scripting and Programming - Foundations	*Computer Science 109 (SDCM-0214), Compu
 
 
 
+----------- Saylor Academy , 4 credits -------
+
+Software Engineering	4 - CS302: Software Engineering
+
+
+
 
 ----------- Student Guide Java Track -------
 
