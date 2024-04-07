@@ -123,19 +123,9 @@ Data Management - Applications 4 3 ------ Satisfated Already ------
 
 Advanced Data Management 3 9
 
-Software Engineering 4 7
-
 Data Structures and Algorithms I 4 6 ------ Satisfated Already ------
 
-Ethics in Technology 3 5
-
-Business of IT – Applications 4 6
-
-Technical Communication 3 2
-
-Hardware and Operating Systems Essentials 3 3 ---Pre study class ---
-
-Introduction to Systems Thinking 3 4
+Software Engineering 4 7
 
 Version Control 1 4
 
@@ -154,6 +144,16 @@ User Experience Design 3 8
 Back-End Programming 3 8
 
 Advanced Java 3 8
+
+Ethics in Technology 3 5
+
+Business of IT – Applications 4 6
+
+Technical Communication 3 2
+
+Hardware and Operating Systems Essentials 3 3 ---Pre study class ---
+
+Introduction to Systems Thinking 3 4
 
 Software Design and Quality Assurance 3 8
 
