@@ -59,11 +59,11 @@ Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG10
 ----------- Study.com, 18 credits -------
 
 
-Data Management - Applications	4	*Computer Science 204 Computer Science 204: Database Programming --- Peding/ Wating Assigment ---
+Data Management - Applications	4	*Computer Science 204 Computer Science 204: Database Programming --- Satisfated Already ---
 
 Advanced Data Management	3	*Computer Science 303 Computer Science 303: Database Management -- Actual  ---
 
-Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: Data Structures & Algorithms ---- Pendiente/ wating examn ---
+Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: Data Structures & Algorithms ------ Satisfated Already ------
 
 Software Engineering	4	*Computer Science 307 Computer Science 307: Software Engineering --Posible Ultimo --
 
