@@ -77,11 +77,15 @@ Software Engineering	4 - CS302: Software Engineering
 
 
 
------------ Certifications , 10 credits -------
+----------- Certifications , 6 credits -------
 
 Google IT Support - Introduction to IT 4
 
 CIW 1D0-621 Exam - User Interface Design 3 8 && User Experience Design 3 8
+
+Google UX Design Professional Certificate  User Interface Design 3 8
+
+Project Management Professional Certificate  Business of IT - Project Management
 
 
 ----------- Student Guide Java Track -------
