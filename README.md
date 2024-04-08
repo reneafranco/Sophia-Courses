@@ -88,6 +88,12 @@ Google UX Design Professional Certificate  User Interface Design 3 8
 Project Management Professional Certificate  Business of IT - Project Management
 
 
+----------- WGU Academy , 3 credits -------
+
+Ethics in Technology	3	*D333 - Ethics in Technology
+
+
+
 ----------- Student Guide Java Track -------
 
 
