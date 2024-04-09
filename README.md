@@ -56,18 +56,18 @@ Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG10
 Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG1020 Workplace Writing II, or ENG1001 English Composition I
 
 
------------ Study.com, 18 credits -------
+----------- Study.com, 14 credits -------
 
 
 Data Management - Applications	4	*Computer Science 204 Computer Science 204: Database Programming --- Satisfated Already ---
 
-Advanced Data Management	3	*Computer Science 303 Computer Science 303: Database Management -- Actual / Protected Exam ---
+Advanced Data Management	3	*Computer Science 303 Computer Science 303: Database Management --- Final Test Pending ---
 
 Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: Data Structures & Algorithms ------ Satisfated Already ------
 
-Software Engineering	4	*Computer Science 307 Computer Science 307: Software Engineering --Posible Ultimo --
+Software Engineering	4	*Computer Science 307 Computer Science 307: Software Engineering -- Posible Ultimo --
 
-Scripting and Programming - Foundations	*Computer Science 109 (SDCM-0214), Computer Science 112 (SDCM-0198), or Computer Science 115 (SDCM-0199)) ------ Final Test Pending ------
+Scripting and Programming - Foundations	*Computer Science 109 (SDCM-0214), Computer Science 112 (SDCM-0198), or Computer Science 115 (SDCM-0199)) ------ Protected Exam ------
 
 
 
