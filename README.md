@@ -67,7 +67,7 @@ Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: D
 
 Software Engineering	4	*Computer Science 307 Computer Science 307: Software Engineering -- Posible Ultimo --
 
-Scripting and Programming - Foundations	*Computer Science 109 (SDCM-0214), Computer Science 112 (SDCM-0198), or Computer Science 115 (SDCM-0199)) ------ Protected Exam / ------
+Scripting and Programming - Foundations	*Computer Science 109 (SDCM-0214), Computer Science 112 (SDCM-0198), or Computer Science 115 (SDCM-0199)) ------ Final Test Pending ------
 
 
 
