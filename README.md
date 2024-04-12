@@ -136,33 +136,33 @@ Data Structures and Algorithms I 4 6 ------ Satisfated Already ------
 
 Software Engineering 4 7
 
+User Interface Design 3 8
+
 Version Control 1 4
 
 Cloud Foundations 3 4
 
 Front-End Web Development 3 6
 
-JavaScript Programming 3 7
-
-Java Frameworks 3 7
-
-User Interface Design 3 8
-
 User Experience Design 3 8
 
 Back-End Programming 3 8
+
+JavaScript Programming 3 7
+
+Java Frameworks 3 7
 
 Advanced Java 3 8
 
 Ethics in Technology 3 5
 
-Business of IT – Applications 4 6
-
 Technical Communication 3 2
+
+Introduction to Systems Thinking 3 4
 
 Hardware and Operating Systems Essentials 3 3 ---Pre study class ---
 
-Introduction to Systems Thinking 3 4
+Business of IT – Applications 4 6
 
 Software Design and Quality Assurance 3 8
 
