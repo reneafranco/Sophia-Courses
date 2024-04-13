@@ -61,7 +61,7 @@ Composition: Successful Self-Expression	3	*ENG1002 English Composition II, ENG10
 
 Data Management - Applications	4	*Computer Science 204 Computer Science 204: Database Programming --- Satisfated Already ---
 
-Advanced Data Management	3	*Computer Science 303 Computer Science 303: Database Management --- Final Test Pending ---
+Advanced Data Management	3	*Computer Science 303 Computer Science 303: Database Management --- Satisfated Already ---
 
 Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: Data Structures & Algorithms ------ Satisfated Already ------
 
