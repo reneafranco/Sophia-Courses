@@ -130,7 +130,7 @@ Scripting and Programming - Foundations
 
 Data Management - Applications 4 3 ------ Satisfated Already ------
 
-Advanced Data Management 3 9
+Advanced Data Management 3 9 ------ Satisfated Already ------
 
 Data Structures and Algorithms I 4 6 ------ Satisfated Already ------
 
