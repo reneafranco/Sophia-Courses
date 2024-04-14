@@ -91,6 +91,8 @@ Project Management Professional Certificate  Business of IT - Project Management
 
 Ethics in Technology	3	*D333 - Ethics in Technology
 
+Introduction to Communication: Connecting with Others	3	*PACA101 (WGUA-0001)
+
 
 ----------- ASU University , Admission requirements -------
 
