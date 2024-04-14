@@ -76,7 +76,7 @@ Software Engineering	4 - CS302: Software Engineering  ---- Actual ----
 
 
 
------------ Certifications , 6 credits -------
+----------- Certifications , 3 credits -------
 
 Google IT Support - Introduction to IT 4
 
