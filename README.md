@@ -131,7 +131,7 @@ Natural Science Lab 2 1 ------ Satisfated Already ------
 
 Java Fundamentals 3 7 ------ Satisfated Already  ------ 
 
-Scripting and Programming - Foundations ------ Pending ------
+Scripting and Programming - Foundations ------ Satisfated Already ------
 
 Data Management - Applications 4 3 ------ Satisfated Already ------
 
