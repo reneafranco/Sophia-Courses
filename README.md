@@ -65,7 +65,6 @@ Advanced Data Management	3	*Computer Science 303 Computer Science 303: Database 
 
 Data Structures and Algorithms I	4	*Computer Science 201 Computer Science 201: Data Structures & Algorithms ------ Satisfated Already ------
 
-
 Scripting and Programming - Foundations	*Computer Science 109 (SDCM-0214), Computer Science 112 (SDCM-0198), or Computer Science 115 (SDCM-0199)) ------ Satisfated Already ------
 
 
