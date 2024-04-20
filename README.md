@@ -142,9 +142,9 @@ Software Engineering 4 7
 
 User Interface Design 3 8
 
-Version Control 1 4
-
 Cloud Foundations 3 4
+
+Version Control 1 4
 
 Front-End Web Development 3 6
 
