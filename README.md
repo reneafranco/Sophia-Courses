@@ -8,7 +8,7 @@ WGU CORE COURSES OFFCIAL WEBSITE 02/06/24
 
 Introduction to IT	4	*CS1001 (SOPH-0023) ------ Satisfated Already ------
 
-Data Management - Foundations	3	*CS1011 (SOPH-0047) ------ Satisfated Already ------
+Data Management - Foundations	3	*CS1011 (SOPH-0047) ------ Satisfated Already -----
 
 Java Fundamentals 3 7 ------ Satisfated Already  ------
 
