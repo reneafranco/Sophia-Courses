@@ -85,7 +85,7 @@ Google UX Design Professional Certificate  User Interface Design 3 8
 
 Project Management Professional Certificate  Business of IT - Project Management
 
-AWS Cloud Practicioner exam - Cloud Foundations 3 4 -- Posible cert --
+AWS Cloud Practicioner exam - Cloud Foundations 3 4 -- Posible cert -- 100 usd examn - 50 % discound etc -
 
 
 ----------- WGU Academy , 3 credits -------
