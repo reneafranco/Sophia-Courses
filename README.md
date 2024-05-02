@@ -97,7 +97,7 @@ Introduction to Communication: Connecting with Others	3	*PACA101 (WGUA-0001)
 
 ----------- ASU University , Admission requirements -------
 
-CIS 194 - Cloud Foundations
+CIS 194 - Cloud Foundations -- 400 usd --- 2 weeks trascrips -
 
 ----------- Student Guide Java Track -------
 
