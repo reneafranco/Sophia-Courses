@@ -102,7 +102,7 @@ CIS 194 - Cloud Foundations -- 400 usd --- 2 weeks trascrips -
 ----------- Student Guide Java Track -------
 
 
-Introduction to IT ------ Satisfated Already ------
+Introduction to IT ----- Satisfated Already ------
 
 American Politics and the US Constitution ------ Satisfated Already  ------
 
