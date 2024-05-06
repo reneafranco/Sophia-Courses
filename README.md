@@ -25,7 +25,7 @@ Introduction to Physical and Human Geography ECON1002 Microeconomics ------ Sati
 Applied Probability and Statistics	3	*STAT1001 Introduction to Statistics ------ Satisfated Already ------
 
 
-Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or  MATH 1035 Precalculus ------ Satisfated Already ------
+Applied Algebra	3	*CA1001 College Algebra, MATH1040 Calculus I, or  MATH 1035 Precalculus ------ Satisfated Already -----
 
 
 Introduction to Programming in Python	3	*CS1100 (SOPH-0058) ------ Satisfated Already ------
