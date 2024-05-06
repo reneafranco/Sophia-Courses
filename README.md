@@ -166,7 +166,7 @@ Technical Communication 3 2
 
 Introduction to Systems Thinking 3 4
 
-Hardware and Operating Systems Essentials 3 3 ---Pre study class ---
+Hardware and Operating Systems Essentials 3 3 --- Pre study class ---
 
 Business of IT – Applications 4 6
 
