@@ -1,5 +1,5 @@
 # Sophia-Courses
-Sophia-Courses
+Sophia-Course
 
 WGU CORE COURSES OFFCIAL WEBSITE 02/06/24
 
