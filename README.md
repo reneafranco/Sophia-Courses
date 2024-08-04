@@ -141,19 +141,21 @@ Advanced Data Management 3 9 ------ Satisfated Already ------
 
 Data Structures and Algorithms I 4 6 ------ Satisfated Already ------
 
-Software Engineering 4 7
+Technical Communication 3 2
 
-User Interface Design 3 8
+Introduction to Systems Thinking 3 4
+
+Ethics in Technology 3 5
+
+Hardware and Operating Systems Essentials 3 3 --- Pre study class ---
+
+Business of IT – Applications 4 6 pree study i have time 
 
 Cloud Foundations 3 4
 
 Version Control 1 4
 
-Front-End Web Development 3 6
-
-User Experience Design 3 8
-
-Back-End Programming 3 8
+Software Engineering 4 7
 
 JavaScript Programming 3 7
 
@@ -161,19 +163,17 @@ Java Frameworks 3 7
 
 Advanced Java 3 8
 
-Ethics in Technology 3 5
+User Interface Design 3 8
 
-Technical Communication 3 2
+Front-End Web Development 3 6
 
-Introduction to Systems Thinking 3 4
+User Experience Design 3 8
 
-Hardware and Operating Systems Essentials 3 3 --- Pre study class ---
-
-Business of IT – Applications 4 6
+Back-End Programming 3 8
 
 Software Design and Quality Assurance 3 8
 
-Software Security and Testing 3 9
+Software Security and Testing 3 9 --pree study
 
 Mobile Application Development (Android) 3 9
 
