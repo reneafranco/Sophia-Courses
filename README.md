@@ -187,5 +187,10 @@ Hardware and Operating Systems Essentials  D386
 
 reddit post : Passed D386 - Hardware and Operating Systems (First Try)
 
+-------------------------------- RECURSOS -------------------------------------
+
+redit : Free Resources For WGU Students
+
+Free Resources For WGU Students
 
 
