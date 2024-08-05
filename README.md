@@ -181,4 +181,11 @@ Software Engineering Capstone 4 9
 
 
 
+---------------------------- Pre Study Classes - LINKS POST and TIPS -------------------------
+
+Hardware and Operating Systems Essentials  D386
+
+reddit post : Passed D386 - Hardware and Operating Systems (First Try)
+
+
 
