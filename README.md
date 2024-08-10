@@ -100,8 +100,7 @@ Introduction to Communication: Connecting with Others	3	*PACA101 (WGUA-0001)
 CIS 194 - Cloud Foundations -- 400 usd --- 2 weeks trascrips - email sent to WGU transcript
 CIS 194 - Fundations 1 credit - Admission Requirements meet --
 
------------ Student Guide Java Track -------
-
+----------- Student Guide Java Track -----
 
 Introduction to IT ----- Satisfated Already ------
 
